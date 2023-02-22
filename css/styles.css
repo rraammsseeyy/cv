@@ -50,14 +50,14 @@ a:hover{
 }
 
 .skill-row{
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-.skill-row2{
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
+}
+
+.skill-row2{
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 .computer1-img{
